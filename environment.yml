@@ -41,13 +41,13 @@ dependencies:
   - python-dateutil=2.7.3=py36_0
   - pytz=2018.4=py36_0
   - readline=7.0=h1de35cc_5
-  - requests=2.18.4=py36h4516966_1
+  - requests=2.21.0=py36_0
   - setuptools=41.0.0=py36_0
   - six=1.11.0=py36_1
   - soupsieve=1.8=py36_0
   - sqlite=3.27.2=ha441bb4_0
   - tk=8.6.8=ha441bb4_0
-  - urllib3=1.22=py36h68b9469_0
+  - urllib3=1.24.1=py36_0
   - webencodings=0.5.1=py36_1
   - wheel=0.33.1=py36_0
   - xz=5.2.4=h1de35cc_4
